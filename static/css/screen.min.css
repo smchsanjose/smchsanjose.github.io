@@ -943,7 +943,7 @@ body {
     }
 
     .page-header {
-        min-height: 20px
+        min-height: 10px
     }
 
     .page-header__inner {
@@ -954,7 +954,7 @@ body {
         float: none;
         position: relative;
         display: inline-block;
-        margin: 20px auto 10px;
+        margin: 0px auto 0px;
         text-align: left
     }
 
@@ -968,8 +968,8 @@ body {
 
     .page-header__nav {
         float: none;
-        margin: 10px auto;
-        padding-top: 20px;
+        margin: 0px auto;
+        padding-top: 0px;
         text-align: center;
         border-top: 1px solid #eee
     }
